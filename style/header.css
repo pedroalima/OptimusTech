@@ -1,0 +1,52 @@
+.cabeçalho {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 500;
+    background-color: var(--branco);
+}
+
+.container {
+    color: var(--cinza);
+    display: flex;
+}
+
+.lista-pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista-pagina__item {
+    margin: 1em;
+    
+}
+
+.lista-pagina__link {
+    text-decoration: none;
+    color: var(--cinza);
+}
+
+.none {
+    width: 142px;
+    height: 32px;
+}
+
+.lista-botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista-botao__item {
+    margin: 1em;
+    user-select: none;
+    cursor: pointer;
+}
+
+.lista-botao__item:nth-child(2) {
+    color: var(--branco);
+    background-color: var(--vermelho);
+    border-radius: 8px;
+    padding: 0.8em 1em;
+}
