@@ -1,5 +1,6 @@
 @import url("../style/navbar.css");
 @import url("../style/header.css");
+@import url("../style/section.css");
 
 :root {
     --branco: #FFFFFF;
