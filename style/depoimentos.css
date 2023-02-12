@@ -1,0 +1,38 @@
+.depoimentos {
+    background: var(--rose);
+    margin: 0 6em 6em 6em;
+}
+
+.container__depoimentos {
+    text-align: center;
+}
+
+.dp__entrada {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+    padding-top: 3em
+}
+
+.dp__titulo {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 43px;
+    margin: 0.5em 1.2em;
+}
+
+.dp__imagem {
+    margin: 1em;
+}
+
+.dp__nome {
+    font-weight: 500;
+    margin: 0 0 0.5em;
+}
+
+.dp__cargo {
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cinza);
+    padding: 0 0 3em 0;
+}

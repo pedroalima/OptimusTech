@@ -1,11 +1,13 @@
 @import url("../style/navbar.css");
 @import url("../style/header.css");
-@import url("../style/section.css");
+@import url("../style/resultados.css");
+@import url("../style/depoimentos.css");
 
 :root {
     --branco: #FFFFFF;
     --cinza: #667085;
     --vermelho: #8E2424;
+    --rose: rgba(196, 25, 25, 0.03);
     --fonte-principal: "Inter";
 }
 
