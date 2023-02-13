@@ -2,6 +2,7 @@
 @import url("../style/header.css");
 @import url("../style/resultados.css");
 @import url("../style/depoimentos.css");
+@import url("../style/vagas.css");
 
 :root {
     --branco: #FFFFFF;
