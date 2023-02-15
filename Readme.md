@@ -21,5 +21,5 @@ Participei do desafio 7DaysOfCode de prática de HTML e CSS, da Giovanna Moeller
 ## Rodapé
 <img src="readme/img8.png">
 
-## Confere o site completo <a href="optimus-tech-tawny.vercel.app">aqui</a>: 
+## Confere o site completo <a href="https://optimus-tech-tawny.vercel.app/">aqui</a>: 
 OBS: O site não é responsivo! Utilize no computador, para uma melhor experiência.
