@@ -1,0 +1,48 @@
+.rodape {
+    padding: 6em 0;
+    text-align: center;
+    background-color: var(--branco-escuro);
+}
+
+.formulario__titulo {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.formulario__descriçao {
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+    margin: 1.5em 0;
+}
+
+.formulario__email {
+    color: var(--cinza);
+    padding: 1em;
+    border: 1px solid var(--cinza-claro);
+    border-radius: 5px;
+    width: 25vw;
+    margin-right: 1em;
+}
+
+.formulario__email::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--cinza);
+    font-weight: 400;
+}
+
+.formulario__botao {
+    background: var(--vermelho);
+    color: var(--branco);
+    padding: 0.7em 1.5em;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.formulario__direitos {
+    font-weight: 400;
+    color: var(--cinza-meio-claro);
+    margin-top: 2em;
+}
